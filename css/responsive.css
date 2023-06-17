@@ -1,0 +1,366 @@
+@media screen and (max-width:1199px){
+    .header-nav .menu ul li {
+        padding-right: 50px;
+    }
+    .banner-photos {
+        margin-left: 53px;
+    }
+    .free-shipping-main {
+        text-align: center;
+    }
+    .feature-product .end-in ul li {
+        padding-right: 10px;
+    }
+    .product-menu ul li {
+        padding-left: 32px;
+    }
+    .feature-clothes-card .rating h3 {
+        font-size: 19px;
+    }
+}
+@media screen and (max-width:991px){
+    .header-nav .menu {
+        display: none;
+    }
+    .banner-photos {
+        margin-left: 0px;
+    }
+    .ulina .ulina-circle {
+        height: auto;
+        width: 100%;
+    }
+    .feature-product button {
+        margin-left: 38px;
+    }
+    .feature-product .end-in ul li {
+        width: 49%;
+        padding-right: 27px;
+    }
+    .product-menu ul li {
+        padding-left: 18px;
+    }
+    .footer-top-box-two .women {
+        margin-right:unset;
+    }
+    .footer-top-box .form input {
+        width: 100%;
+        padding-left: 10px;
+    }
+}
+@media screen and (max-width:875px) {
+    #banner {
+        padding-top: 76px;
+    }
+    .banner-photos .circle {
+        height: 338px;
+        width: 100%;
+        border-radius: 50%;
+        background-color: #fff;
+    }
+    .feature-product button {
+        margin-left: 14px;
+    }
+    .feature-product ul li del {
+        padding-left: 20px;
+    }
+    .ulina {
+        margin-top: 40px;
+    }
+    .feature-product .end-in ul li del{
+        display: none;
+    }
+    .feature-product .end-in ul li {
+        width: unset;
+        padding-right: 22px;
+    }
+    .feature-clothes-col {
+        width: 100%;
+    }
+    .product-menu {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+    }
+    .product-menu ul li {
+        padding-top: 20px;
+    }
+    #slider-main {
+        padding: 10px 0;
+    }
+}
+@media screen and (max-width:767px) {
+    .banner-col {
+        width: 100%;
+    }
+    .banner-photos {
+        display: none;
+    }
+    .free-shipping-col {
+        width: 50%;
+    }
+    .free-shipping-main {
+        margin: 15px 0px;
+    }
+    .latest-card-main-col {
+        width: 50%;
+    }
+    .ulina {
+        display: none;
+    }
+    .ulina-main-col {
+        width: 100%;
+    }
+    .feature-product ul li del {
+        padding-left: 100px;
+    }
+    .feature-product button {
+        margin-left: 126px;
+    }
+    .feature-product .end-in ul li {
+        width: 24%;
+        padding-right: 22px;
+    }
+    .feature-clothes-card .feature-card-top {
+        padding: 10px 0px 0px 0px;
+    }
+    .women-collection .women-text {
+        float: left;
+        padding: 72px 0px 0px 0px;
+    }
+    .customer-main-col {
+        width: 100%;
+    }
+    .customer-text h2 {
+        max-width:80%;
+        margin: 10px auto;
+    }
+    .customer-text {
+        text-align: center;
+    }
+    .customer-text p {
+        max-width: 80%;
+        margin: 10px auto;
+    }
+    .circle {
+        display: none;
+    }
+    .box-card .three-cirle .first:nth-child(1) {
+        top: 27px;
+    }
+    .customer-card-col {
+        width: 100%;
+    }
+    .box-card-m {
+        margin-top: 48px;
+    }
+    .slider img {
+        width: 100%;
+    }
+    #customer-main {
+        padding: 80px 0;
+    }
+    .footer-top-box-col {
+        width: 50%;
+        height: 238px;
+    }
+    .footer-left-col:nth-child(1) {
+        width: 40%;
+    }
+    .footer-left-col:nth-child(2) {
+        width: 60%;
+    }
+    #footer-top {
+        padding: 30px 0;
+    }
+    #feature-clothes-main {
+        padding: 80px 0px 56px 0;
+    }
+}
+@media screen and (max-width:575px) {
+    :root {
+        --heading-fontsh3: 20px;
+        --paragraph-font: 16px;
+        --header-fonth2: 30px;
+        --less-fonts:35px;
+        --small-fonts:30px;
+        --ex-small:25px;
+    }
+    #header-main {
+        padding: 8px 0;
+    }
+    .banner-text {
+        padding-top: 0px;
+    }
+    .banner-text h1 {
+        font-size: 31px;
+        line-height: 40px;
+    }
+    #free-shipping {
+        padding: 15px 0px;
+    }
+    .free-shipping-main {
+        box-shadow: 0px 0px 20px -2px rgba(222, 236, 236, 1);
+        padding: 12px 2px;
+    }
+    .free-shipping-main h2 {
+        font-size: 17px;
+    }
+    .latest-card .card-image {
+        padding: 10px 15px 10px 10px;
+    }
+    .latest-card .card-image img {
+        height: 143px;
+    }
+    .card-text ul{
+        margin-top: 10px;
+    }
+    .latest h2 {
+        padding-bottom:unset;
+    }
+    .latest-card .card-text h3 {
+        line-height: 29px;
+        padding-top: 10px;
+    }
+    .latest-card-main {
+        padding: 0px 0px;
+    }
+    .latest-card {
+        width: 100%;
+        display: inline-block;
+        margin: 20px 0px;
+    }
+    .feature-product h2 {
+        font-size: 30px;
+    }
+    .feature-clothes h1 {
+        font-size: 30px;
+    }
+    .feature-clothes-card {
+        box-shadow: 0px 0px 1px 0px;
+        padding: 5px 10px;
+    }
+    .women-collection .women-text {
+        padding: 40px 0px 0px 0px;
+    }
+    .women-collection .women-img {
+        width: 100%;
+    }
+    .women-collection {
+        margin-bottom: 30px;
+    }
+    .shop-catagires h2 {
+        font-size: 30px;
+    }
+    .shop-catagies-card .shop-catagies-test h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .shop-catagies-card-main {
+        padding-top: 0px;
+    }
+    .shop-catagies-card {
+        padding-bottom: 15px;
+        margin-top: 20px;
+    }
+    #customer-main {
+        margin-top: 10px;
+    }
+    .customer-text h2 {
+        font-size: 30px;
+    }
+    .slider {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        padding: unset;
+    }
+    .footer-top-box-col {
+        width: 100%;
+        height:unset;
+    }
+    .footer-left-text h2 {
+        line-height: unset;
+        font-size: 16px;
+    }
+
+
+
+    .latest-card .card-text .main-price .t-shart-size {
+        display: none;
+    }
+    #ulina-main {
+        padding: 30px 0;
+    }
+    .prices li:nth-child(1) {
+        width: 50%;
+        float: left;
+    }
+    .prices li:nth-child(2) {
+        width: 50%;
+        padding:25px 0px;
+        text-align: right;
+    }
+    .prices li:nth-child(2) del {
+        padding-left: unset;
+    }
+    .prices li:nth-child(3) {
+        width: 100%;
+        text-align: center;
+    }
+    .feature-product button {
+        margin-left: unset;
+        margin: 0px auto;
+    }
+    .feature-product .end-in ul li:nth-child(1) {
+        width: 24%;
+        padding-right: unset;
+    }
+    .feature-product .end-in ul li:nth-child(2) {
+        width: 24%;
+        padding-right: unset;
+    }
+    .feature-product .end-in ul li:nth-child(3) {
+        width: 24%;
+        padding-right: unset;
+    }
+    .feature-product .end-in ul li:nth-child(4) {
+        width: 24%;
+        padding-right: unset;
+    }
+    .product-menu ul li a {
+        font-size: 21px;
+    }
+    .product-menu ul li {
+        padding: 10px 7px;
+    }
+    .feature-clothes-card-col {
+        width: 100%;
+    }
+    .women-new-collection-col {
+        width: 100%;
+    }
+    .shop-catagies-card-col {
+        width: 50%;
+    }
+    .box-card-col {
+        width: 100%;
+    }
+    #customer-main {
+        padding: 40px 0px 50px 0px;
+    }
+    .slider img {
+        height: 19px;
+    }
+    .footer-top-box-col {
+        width: 100%;
+    }
+    .footer-right-text {
+        display: none;
+    }
+    .footer-left-col:nth-child(1) {
+        width: 100%;
+    }
+    .feature-product h2 {
+        font-size: 31px;
+    }
+}
